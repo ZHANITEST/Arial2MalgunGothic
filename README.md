@@ -11,7 +11,7 @@ Arial2MalgunGothic
 
 Demo
 ==================
-http://sj.w.pw/a2m
+http://xky.comze.com/a2m/
 
 
 License
